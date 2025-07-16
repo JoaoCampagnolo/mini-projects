@@ -1,0 +1,8 @@
+pyaudio
+pygame
+pydub
+noisereduce
+torchaudio
+transformers
+torch
+numpy
